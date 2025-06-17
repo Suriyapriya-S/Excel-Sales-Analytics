@@ -15,7 +15,8 @@ IMPORTANCE OF ANALYZING SALES DATA:
 
 ROLE OF REPORTS:
         
-     -> Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+     -> Determine effective customer discounts, facilitate negotiations with consumers and 
+        identify potential business expansion opportunities in promising countries.
 
 
 TECHNICAL SKILLS:
