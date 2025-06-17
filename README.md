@@ -2,10 +2,11 @@
 # SALES REPORT:
 PROJECT OBJECTIVE:
      
-    1. Create a customer NetSales performance report-
-      [https://github.com/Suriyapriya-S/Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf]
-    2. Conduct a comprehensive comparison between market performance and sales targets-
-       [https://github.com/Suriyapriya-S/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf]
+   1. Create a customer NetSales performance report-
+    [https://github.com/Suriyapriya-S/Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf]
+   2. Conduct a comprehensive comparison between market performance and sales targets-
+     [https://github.com/Suriyapriya-S/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf]
+ 
 
 PURPOSE OF SALES ANALYICS:
 
