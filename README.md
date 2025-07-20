@@ -7,31 +7,31 @@ PROJECT OBJECTIVE:
  ![Image_Alt](https://github.com/Suriyapriya-S/Excel-Sales-Analytics/blob/a6c5e2c6fb890e0874c67dcfd5a3079822ac143a/Screenshot%202025-07-20%20135711.png)
    2. Conduct a comprehensive comparison between market performance and sales targets-
    
-![Image_Alt]([https://github.com/Suriyapriya-S/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf])
+![Image_Alt](<img width="664" height="658" alt="image" src="https://github.com/user-attachments/assets/e9d41936-3a81-4447-bd09-ee4d2b7031c4" />)
  
 
 PURPOSE OF SALES ANALYICS:
 
-      -> Empower businesses to monitor and evaluate their sales activities and performance.
+ -> Empower businesses to monitor and evaluate their sales activities and performance.
 
 IMPORTANCE OF ANALYZING SALES DATA:
 
-     -> Identify sales patterns and track key performance indicators (KPIs).
+ -> Identify sales patterns and track key performance indicators (KPIs).
 
 ROLE OF REPORTS:
         
-     -> Determine effective customer discounts, facilitate negotiations with consumers and 
+  -> Determine effective customer discounts, facilitate negotiations with consumers and 
         identify potential business expansion opportunities in promising countries.
 
 
 TECHNICAL SKILLS:
  
-    * Proficiency in ETL methodology (Extract, Transform, Load).
-    * Skills to generate a date table using Power Query.
-    * Ability to derive fiscal months and quarters.
-    * Establishing data model relationships with Power Pivot.
-    * Proficiency in incorporating supplementary data into an existing data model.
-    * Utilizing DAX to create calculated columns.
+  * Proficiency in ETL methodology (Extract, Transform, Load).
+  * Skills to generate a date table using Power Query.
+  * Ability to derive fiscal months and quarters.
+  * Establishing data model relationships with Power Pivot.
+  * Proficiency in incorporating supplementary data into an existing data model.
+  * Utilizing DAX to create calculated columns.
 
 SOFT SKILLS:
 
