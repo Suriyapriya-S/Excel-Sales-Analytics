@@ -1,12 +1,13 @@
 
 # SALES REPORT:
-PROJECT OBJECTIVE:
+
 🎯 **Aim**
 *To create two Excel reports for the company AtliQ Hardwares*:
 
    ->.Customer Performance Report
      
    ->.Market Performance vs Target Report
+   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
  1. Create a customer NetSales performance report-
@@ -16,6 +17,7 @@ PROJECT OBJECTIVE:
  2. Conduct a comprehensive comparison between market performance and sales targets-
    
 ![Image_Alt](https://github.com/Suriyapriya-S/Excel-Sales-Analytics/blob/c3afb4b579e5552b95623a3761b68a6ed1eb93d2/Screenshot%202025-07-20%20140302.png)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✅ **Tasks Done**
@@ -29,6 +31,7 @@ PROJECT OBJECTIVE:
    * Created a Date Table using Power Query for proper time analysis.
      
    * Applied final formatting to make the reports neat and clear.
+   * 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 **Analysis Results**
@@ -57,6 +60,7 @@ PROJECT OBJECTIVE:
         
   -> Determine effective customer discounts, facilitate negotiations with consumers and 
         identify potential business expansion opportunities in promising countries.
+        
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **TECHNICAL SKILLS**:
@@ -68,7 +72,7 @@ PROJECT OBJECTIVE:
   * Proficiency in incorporating supplementary data into an existing data model.
   * Utilizing DAX to create calculated columns.
 
-SOFT SKILLS:
+**SOFT SKILLS**:
 
   * Refined understanding of Sales & Finance Reports
   * Designing user-centric reports with empathy in mind.
