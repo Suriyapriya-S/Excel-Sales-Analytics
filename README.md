@@ -32,7 +32,7 @@
    * Created a Date Table using Power Query for proper time analysis.
      
    * Applied final formatting to make the reports neat and clear.
-   * 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 **Analysis Results**
