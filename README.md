@@ -8,8 +8,7 @@ PROJECT OBJECTIVE:
 
    2. Conduct a comprehensive comparison between market performance and sales targets-
    
-![Image_Alt](<img width="664" height="658" alt="image" src="https://github.com/user-attachments/assets/ffec8c4a-9c86-476a-85c2-13ea6d5eadbf" />
-)
+![Image_Alt](https://github.com/Suriyapriya-S/Excel-Sales-Analytics/blob/c3afb4b579e5552b95623a3761b68a6ed1eb93d2/Screenshot%202025-07-20%20140302.png)
  
 
 PURPOSE OF SALES ANALYICS:
