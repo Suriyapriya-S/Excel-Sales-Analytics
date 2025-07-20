@@ -1,8 +1,9 @@
 
 # SALES REPORT:
 
-🎯 **Aim**
-*To create two Excel reports for the company AtliQ Hardwares*:
+🎯 **Aim**:
+
+ *To create two Excel reports for the company AtliQ Hardwares*:
 
    ->.Customer Performance Report
      
