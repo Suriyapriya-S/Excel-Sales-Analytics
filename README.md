@@ -5,9 +5,9 @@
 
  *To create two Excel reports for the company AtliQ Hardwares*:
 
-   ->.Customer Performance Report
+   -> Customer Performance Report
      
-   ->.Market Performance vs Target Report
+   -> Market Performance vs Target Report
    
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
